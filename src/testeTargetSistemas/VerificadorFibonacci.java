@@ -1,4 +1,4 @@
-package perguntas;
+package testeTargetSistemas;
 
 import java.util.Scanner;
 

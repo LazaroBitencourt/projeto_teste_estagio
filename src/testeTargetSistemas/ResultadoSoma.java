@@ -1,4 +1,4 @@
-package perguntas;
+package testeTargetSistemas;
 
 public class ResultadoSoma {
 
