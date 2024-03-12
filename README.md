@@ -20,7 +20,7 @@ public class ResultadoSoma {
 ```
 ## Solução: Fibonacci
 ```
-public class VerificadorFibonaccci {
+public class VerificadorFibonacci {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -91,7 +91,7 @@ Dirijo-me a outra sala para determinar os outros dois interruptores .
 
 ## Solução: Inverter String
 ```
-public class InverterString {
+public class InverteString {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package perguntas;
 
 import java.util.Scanner;
 
-public class VerificadorFibonaccci {
+public class VerificadorFibonacci {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package perguntas;
 
 import java.util.Scanner;
 
-public class InverterString {
+public class InverteString {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
